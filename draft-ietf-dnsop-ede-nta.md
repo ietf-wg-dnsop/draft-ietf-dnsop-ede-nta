@@ -5,7 +5,7 @@ docname: draft-ietf-dnsop-ede-nta-latest
 category: info
 stream: IETF
 ipr: trust200902
-area: Internet
+area: "Operations and Management"
 keyword:
   - DNS
   - EDE
