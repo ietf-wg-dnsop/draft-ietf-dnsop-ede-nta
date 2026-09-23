@@ -1,0 +1,3 @@
+# Automatically generated CODEOWNERS
+# Regenerate with `make update-codeowners`
+draft-ietf-dnsop-ede-nta.md babak@farrokhi.net jabley@cloudflare.com sebastiaan@cloudflare.com
