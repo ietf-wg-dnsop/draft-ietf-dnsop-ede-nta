@@ -4,7 +4,7 @@
 
 Network Working Group                                        B. Farrokhi
 Internet-Draft                                                     Quad9
-Updates: RFC7646 (if approved)                                  J. Abley
+Updates: 7646 (if approved)                                     J. Abley
 Intended status: Informational                              S. Neuteboom
 Expires: 27 March 2027                                        Cloudflare
                                                        23 September 2026
@@ -18,6 +18,17 @@ Abstract
    This document describes a mechanism for disclosing that a Negative
    Trust Anchor (NTA) was in effect at the time that a DNS response was
    generated, using an Extended DNS Error (EDE).
+
+Discussion Venues
+
+   This note is to be removed before publishing as an RFC.
+
+   Discussion of this document takes place on the Domain Name System
+   Operations Working Group mailing list (dnsop@ietf.org), which is
+   archived at https://mailarchive.ietf.org/arch/browse/dnsop/.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/ietf-wg-dnsop/draft-ietf-dnsop-ede-nta.
 
 Status of This Memo
 
