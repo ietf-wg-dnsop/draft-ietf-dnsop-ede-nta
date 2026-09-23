@@ -14,7 +14,7 @@ keyword:
   - NTA
   - Negative Trust Anchor
 pi: [toc, tocindent, sort refs, symrefs, strict, compact, inline]
-updates: RFC7646
+updates: 7646
 author:
   - ins: B. Farrokhi
     name: Babak Farrokhi
